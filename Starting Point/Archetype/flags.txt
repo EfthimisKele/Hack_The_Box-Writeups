@@ -1,0 +1,23 @@
+Archetype 
+type: Windows User
+user: Administrator
+passwd: MEGACORP_4dm1n!!
+
+
+Archetype
+type: SQL Server
+user: ARCHETYPE\sql_svc
+passwd: M3g4c0rp123
+
+
+Flags*
+
+type: user normal
+flag: 3e7b102e78218e935bf3f4951fec21a3
+
+type: root flag
+flag: b91ccec3305e98240082d4474b848528
+
+
+
+
