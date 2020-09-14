@@ -1,4 +1,4 @@
-# Hack_The_box :EMOJICODE: 
+# Hack_The_box 🕵💻
 Containg useful files and hints for various machines and challenges in **HackTheBox**
 
 ## Contact
