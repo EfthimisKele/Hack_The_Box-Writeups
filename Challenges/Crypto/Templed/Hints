@@ -1,5 +1,5 @@
 Hint no1: Check what Cistercian Monk Numerals is
 
-Hint no2: Combine 2 symbols together liek doing a simple addition.
+Hint no2: Every symbol is a combination of other 2 symbols, just try to distinguish them and do a simple addition with their number
 
-Hint no3: Use python script to decode.
+Hint no3: Use ASCII_to_Text.py script to decode the text or use any online converter to get the Flag.
