@@ -1,4 +1,4 @@
-msg = ""
+msg = "PUT_YOUR_TEXT_HERE"
 msg = msg.split()
 
 text = ""
