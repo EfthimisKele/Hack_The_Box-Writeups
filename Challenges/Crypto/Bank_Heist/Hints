@@ -1,0 +1,4 @@
+Hint no1: If you "cat" the file you see some numbers, convert keypad numbers to text(see what Multi-tap Phone Cipher is),
+using Multi-tap_phone_cipher.py or any online converter.
+
+Hint no2: Convert cipher text to plain text using Bruteforce attack using Cipher_to_plain_text.py or any online converter.
