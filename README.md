@@ -4,6 +4,6 @@ Containg useful files and hints for various machines and challenges in **HackThe
 ## Contact
 
 - [Github](https://github.com/EfthimisKele)
-- [Instagram](https://www.instagram.com/efthimis_kele)
+- [LinkedIn](https://www.linkedin.com/in/efthymios-kelesmitos-33289b10a)
 - [Twitter](https://twitter.com/efthimis_kele)
 - Email:m.efthimis4@gmail.com
