@@ -1,0 +1,22 @@
+There are 4 ways to solve this challenge.
+
+1st way:
+Using Radare2(https://rada.re/n/)
+
+-r2 -A baby in terminal and then type pdf@main to list the fuctions in the codes,for more informations ,just try r2- help.
+-Then it's easy to find the flag :).
+
+
+2nd way:
+Using Ghidra(https://ghidra-sre.org/)
+
+-ghidra baby in terminal or import baby file in ghidra and analyze it.
+-Then, go to Search->For Strings->(Uncheck Require Null Termination)->Search
+-You will find some strings pretty close to the flag.
+-These strings equals to some numbers like hex, copy paste their numbers from the code
+and use baby.py or any online Hex converter and reverse it.
+-Finally, join the strings together.
+
+3rd way:
+-Check for strings in the baby file , you will get the key and run the file.
+-Then it will give the flag .
